@@ -68,7 +68,7 @@ const CONFIG = {
     // Adjust these if you want faster/slower animations
     animations: {
         floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "40px",          // How far hearts move sideways (30-70px recommended)
+        floatDistance: "60px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.3s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 2.0         // Size of heart explosion effect (1.2-2.0 recommended)
     },
